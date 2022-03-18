@@ -1,6 +1,6 @@
 # flask-chatterbot
 
-#### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
+#### A web implementation of [ChatterBot] using Flask.
 
 ## Local Setup:
  1. Ensure that Python, Flask, SQLAlchemy, and ChatterBot are installed (either manually, or run `pip install -r requirements.txt`).
@@ -26,4 +26,4 @@ english_bot = ChatBot("English Bot",
 ... where `mongodb_name` is the name of the database you wish to connect to and `mongodb_uri` is the URI of a remote instance of MongoDB.
 
 ## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
+This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE]
